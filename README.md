@@ -20,7 +20,7 @@ npm run dev
 <img src="https://github.com/Lycan-DK/FroneEnd_VUE/blob/master/screen/Home.jpg">
 # Edit User Admin or not
 <img src="https://github.com/Lycan-DK/FroneEnd_VUE/blob/master/screen/Edit.jpg">
-# Delete user
+# Delete user (As delete me is not in the User List)
 <img src="https://github.com/Lycan-DK/FroneEnd_VUE/blob/master/screen/DeleteMe.jpg">
 # Log out
 <img src="https://github.com/Lycan-DK/FroneEnd_VUE/blob/master/screen/Log_out.jpg">
